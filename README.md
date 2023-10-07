@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- 헤더 -->
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=WELCOME%20TO&desc=Dayeon's%20GitHub&fontColor=046307&fontSize=90&fontAlignY=50&fontAlign=50&descAlignY=70&descAlign=50&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20TO&desc=Dayeon's%20GitHub&fontColor=046307&fontSize=90&fontAlignY=50&fontAlign=50&descAlignY=70&descAlign=50&&animation=twinkling)
 
 ## Intro :bowtie:
 :wave: Hi, thank you for visiting my GitHub page. \
