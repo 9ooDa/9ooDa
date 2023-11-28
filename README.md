@@ -29,6 +29,7 @@ My current interests are __Deep Learning__ and __NLP__.
 <!--운영체제-->
 ## Operating System :computer:
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat&logo=windows10&logoColor=white"/>
 <br/><br/>
 
 <!--기술스택-->
